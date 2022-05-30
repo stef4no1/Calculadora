@@ -1,0 +1,16 @@
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.csproj.AssemblyReference.cache
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.AssemblyInfoInputs.cache
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.AssemblyInfo.cs
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.csproj.CoreCompileInputs.cache
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\bin\Debug\net5.0\practicando.exe
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\bin\Debug\net5.0\practicando.deps.json
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\bin\Debug\net5.0\practicando.runtimeconfig.json
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\bin\Debug\net5.0\practicando.runtimeconfig.dev.json
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\bin\Debug\net5.0\practicando.dll
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\bin\Debug\net5.0\practicando.pdb
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.dll
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\refint\practicando.dll
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.pdb
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\practicando.genruntimeconfig.cache
+C:\Users\strag\Desktop\curso-maxiprograma\ejercicios-unidad-2\practica\practicando\obj\Debug\net5.0\ref\practicando.dll
