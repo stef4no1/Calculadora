@@ -23,7 +23,7 @@ namespace practicando
             Console.WriteLine("* para multiplicar");
             Console.WriteLine("/ para dividir");
 
-            Console.WriteLine("Eliga una opción"); 
+            Console.WriteLine("Elija una opción"); 
             resp = Console.ReadLine();  // Aca guardo la operacion que desea hacer
             string eleccion = Convert.ToString(resp); // Se hace la convercion de caracter
 
